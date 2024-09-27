@@ -22,7 +22,7 @@ I do not have much game dev experience - I have used Godot 4 to build a platform
 
 3. What are you hoping to get out of this class?
 
-I want to learn Unity and reallyylearn the core tenets of game development so after this class I can go out and have a better understanding of the game I want to make and know the steps I need to take to do it..
+I want to learn Unity and really learn the core tenets of game development so after this class I can go out and have a better understanding of the game I want to make and know the steps I need to take to do it..
 
 4. What, if anything, are you nervous about for this class?
 
