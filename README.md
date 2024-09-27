@@ -7,16 +7,26 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
+Hi! My name is Adit, and I have been playing video games since my childhood. I have not been a huge gamer lately, but I really enjoy playing singleplayer RPG/adventure games - something I can immerse myself in and have fun. I really like Soulslike games and pixel art games. Some of my all time favorites and The Legend of Zelda franchise, Elden Ring, and Pokemon for nostalgia reasons. I also really enjoy playing indie games - Hades is a favorite of mine.
+
+I do not have much game dev experience - I have used Godot 4 to build a platformer as a fun side project, and that really sparked my interest in making games. I want to make a pixel art game, something with a nice story but smaller scale with a fun gameplay loop. The reason I am taking this class is to test the waters of game development and learn more in a structured environment.
+
+
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
     - [ ] Game Design & Interactive Media
-    - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
+    - [x] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
     - [ ] Undecided
     - [ ] Other (please specify)
 
 3. What are you hoping to get out of this class?
+
+I want to learn Unity and reallyylearn the core tenets of game development so after this class I can go out and have a better understanding of the game I want to make and know the steps I need to take to do it..
+
 4. What, if anything, are you nervous about for this class?
+
+Not really nervous, just excited!
 
 ## Prior Experience
 
@@ -26,9 +36,19 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
+C++
+Java
+Python
+SQL
+GDScript
+
 2. Game development (any engine)
 
+Godot 4
+
 3. Unity
+
+N/A
 
 ### Programming & Game Development Concepts
 
@@ -41,13 +61,23 @@ For the next questions, a programming or game development concept is presented:
 
 1. Game design document
 
+ - An initial document outlining everything related to the game in development - All the way from story, to structure, to genre, to how the game will be implemented abstractly (maybe), and more! PirateSoftware Game Dev Document is one I have looked at
+
 2. Scope management
+
+ - Maybe just managing scope well?
 
 3. Iteration
 
+ - Iteratively adding to the game
+
 4. Object-Oriented programming
 
+ - Classes + class hierarchy
+
 5. Model-View-Controller architecture
+
+ - N/A - only familiar with this concept in Swift
 
 ## Complete!
 
